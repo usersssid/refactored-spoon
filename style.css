@@ -1,0 +1,14 @@
+body{
+    background:linear-gradient(rgb(11, 151, 231),rgb(17, 241, 17))
+}
+span{
+    font-size: 30px;
+}
+#camera,#result{
+    border:2px dashed black;
+    width:350px;
+    height:300px;
+}
+.emoji{
+    font-size: 50px;
+}
